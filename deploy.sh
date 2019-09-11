@@ -13,6 +13,6 @@ git add -A
 git commit -m 'deploy'
 
 # if you are deploying to https://<USERNAME>.github.io/<REPO>
-git push -f git@github.com/joeldetrinidad.github.io/ProjectVuejs.git master:gh-pages
+git push -f git@https://github.com/JoelDeTrinidad/ProjectVuejs master:gh-pages
 
 cd -
