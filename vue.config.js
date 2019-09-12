@@ -1,5 +1,5 @@
 module.exports = {
-    publicPath: process.env.NODE_ENV === 'production'
-      ? '/ProjectVuejs/index.js'
-      : '/'
-  }
+  publicPath: process.env.NODE_ENV === 'production'
+    ? '/project-platzi/'
+    : '/'
+}
